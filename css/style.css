@@ -1,3 +1,7 @@
+body {
+    background-color: #e8ded2;
+}
+
 img {
     height: 250px;
     width: 250px;
@@ -13,6 +17,11 @@ div {
 
 h1 {
     height: 30px;
+    color: #5eaaa8;
+}
+
+h3 {
+    color: #5eaaa8;
 }
 
 hr {
@@ -22,6 +31,7 @@ hr {
     border-right-style: none;*/
     border-style: none none dotted;
     border-width: 10px;
+    color: grey;
 
 
     width: 5%;
