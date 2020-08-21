@@ -1,0 +1,29 @@
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 90%;
+}
+
+
+div {
+
+    background-color: aqua;
+    height: 100px;
+}
+
+h1 {
+    height: 30px;
+}
+
+hr {
+    /*border-bottom-style: dotted;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;*/
+    border-style: none none dotted;
+    border-width: 10px;
+
+
+    width: 5%;
+
+}
